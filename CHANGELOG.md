@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-api-core/#history
 
+## [2.4.0](https://www.github.com/googleapis/python-api-core/compare/v2.3.0...v2.4.0) (2021-12-09)
+
+
+### Features
+
+* add support for 'error_info' ([#315](https://www.github.com/googleapis/python-api-core/issues/315)) ([cc46aa6](https://www.github.com/googleapis/python-api-core/commit/cc46aa68ec184871330d16a6c767f57a4f0eb633))
+
 ## [2.3.0](https://www.github.com/googleapis/python-api-core/compare/v2.2.2...v2.3.0) (2021-11-25)
 
 
